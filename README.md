@@ -1,2 +1,11 @@
 # Trees-Pseudo-Code
-Tree data-structure pseudo code
+Pseudo code for tree data-structures
+
+---
+2-3 tree
+AVL tree
+B tree
+Red/Black tree
+Heap
+Fib Heap
+
